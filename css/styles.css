@@ -56,3 +56,40 @@ section {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+.color-1 {
+	background: #511670;
+}
+
+.color-2 {
+	background: #934673;
+}
+
+.color-3 {
+	background: #E48ED9;
+}
+
+.color-4 {
+	background: #BC0659;
+}
+
+.color-5 {
+	background: #000941;
+}
+
+.color-6 {
+	background: #000000;
+}
+
+
+
+.pattern-1 {
+	background: url("../img/arabesque.png");
+}
+
+
+
+
+
+
+
