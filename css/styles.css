@@ -88,6 +88,26 @@ section {
 .color-48,
 .color-49,
 .color-50,
+.color-51,
+.color-52,
+.color-53,
+.color-54,
+.color-55,
+.color-56,
+.color-57,
+.color-58,
+.color-59,
+.color-60,
+.color-61,
+.color-62,
+.color-63,
+.color-64,
+.color-65,
+.color-66,
+.color-67,
+.color-68,
+.color-69,
+.color-70,
 .pattern-1,
 .pattern-2,
 .pattern-3 {
@@ -105,7 +125,7 @@ section {
 }
 
 .color-1{
-	background: #000000;
+	background: #A0648F;
 }
 .color-2{
 	background: #EAE3CF;
@@ -237,27 +257,106 @@ section {
 	background: #982D79;
 }
 .color-45{
-	background: #;
+	background: #175E63;
 }
 .color-46{
-	background: #;
+	background: #165F58;
 }
 .color-47{
-	background: #;
+	background: #104042;
 }
 .color-48{
-	background: #;
+	background: #104643;
 }
 .color-49{
-	background: #;
+	background: #90FEE6;
 }
 .color-50{
-	background: #;
+	background: #24696B;
+}
+.color-51{
+	background: #000000;
+}
+.color-52{
+	background: #ffffff;
+}
+.color-53{
+	background: #180620;
+}
+.color-54{
+	background: #280F36;
+}
+.color-55{
+	background: #65326D;
+}
+.color-56{
+	background: #1D9089;
+}
+.color-57{
+	background: #182F3F;
+}
+.color-58{
+	background: #2b1d32;
+}
+.color-59{
+	background: #2e3a53;
+}
+.color-60{
+	background: #1f1225;
+}
+.color-61{
+	background: #2f6056;
+}
+.color-62{
+	background: #47254c;
+}
+.color-63{
+	background: #204449;
+}
+.color-64{
+	background: #f0ecf5;
+}
+.color-65{
+	background: #ab0375;
+}
+.color-66{
+	background: #a70574;
+}
+.color-67{
+	background: #601147;
+}
+.color-68{
+	background: #600c45;
+}
+.color-69{
+	background: #1c3338;
+}
+.color-70{
+	background: #1a5159;
 }
 
+/*black-i:  180620
+Dark purp:  280F36
+	 Plum:  65326D
+	vTeal:  1D9089
+Dark blue:  182F3F  
+			2b1d32
+			2e3a53
+			1f1225
+			2f6056
+			47254c
+			204449
+			f0ecf5
+
+			ab0375
+			a70574
+			601147
+			600c45
+			1c3338
+			1a5159
 
 
-
+*/
 
 
 
