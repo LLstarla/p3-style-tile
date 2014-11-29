@@ -29,7 +29,7 @@ p {
 }
 
 /*Baseline Links*/
-a:link, a:visited {
+/*a:link, a:visited {
 	font-family: 'Questrial', sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -40,7 +40,44 @@ a:hover {
 	color: #B9EFEF;
 	background: #1F4147;
 	background-size: 90%;
+	background-position: center;*/
+}
+
+
+nav {
+	text-align: center;
+	float: center;
+}
+
+nav ul {
+	margin-top: 40px;
+	margin-bottom: 70px;
+}
+
+nav ul li a:link, nav ul li a:visited {
+	font-family: 'Questrial', sans-serif;
+	font-weight: 800;
+	list-style: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #204449;
+	font-size: 1.75em;
+	padding: 60px;
+	border: 2px;
+	
+}
+
+nav ul li a:hover { 
+	color: #B9EFEF;
+	background: url("../img/WClink2.png") no-repeat;
+	background-size: 90%;
 	background-position: center;
+} 
+
+ul li {
+	text-decoration: none;
+	list-style: none;
+	display: inline;
 }
 
 img {
