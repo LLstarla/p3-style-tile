@@ -63,15 +63,28 @@ section {
 .color-23,
 .color-24,
 .color-25,
-.color-26,
-.pattern-1,
-.pattern-2,
-.pattern-3 {
+.color-26 {
 	border: 1px solid #000;
 	float: left;
 	margin: 10px;
 	height: 50px;
 	width: 50px;
+}
+
+
+.pattern-1,
+.pattern-2,
+.pattern-3,
+.pattern-4,
+.pattern-5,
+.pattern-6,
+.pattern-7,
+.pattern-8 {
+	border: 1px solid #000;
+	float: left;
+	margin: 10px;
+	height: 100px;
+	width: 100px;
 }
 
 
@@ -108,7 +121,42 @@ section {
 .color-26{background: #F5DEE6;}
 
 .pattern-1 {
-	background: url("../img/arabesque.png");
+	background: url("../img/dark-wood.png");
+	background-size: 100%
 }
+.pattern-2 {
+	background: url("../img/SPpink.png");
+	background-size: 100%
+}
+.pattern-3 {
+	background: url("../img/dw2.png");
+	background-size: 100%
+}
+.pattern-4 {
+	background: url("../img/WClink2.png");
+	background-size: 100%
+}
+.pattern-5 {
+	background: url("../img/SPblue2.png");
+	background-size: 100%
+}
+.pattern-6 {
+	background: url("../img/SPdarkpurple.png");
+	background-size: 100%
+}
+.pattern-7 {
+	background: url("../img/SPseafoam.png");
+	background-size: 100%
+}
+.pattern-8 {
+	background: url("../img/SPpurple.png");
+	background-size: 100%
+	
+}
+
+
+
+
+
 
 
