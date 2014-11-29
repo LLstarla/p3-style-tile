@@ -33,6 +33,11 @@ h2, h3, p {
 	margin: 0;
 }
 
+img {
+	max-width: 225px;
+	max-height: 250px;
+}
+
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
@@ -47,23 +52,7 @@ section {
 .color-7,
 .color-8,
 .color-9,
-.color-10,
-.color-11,
-.color-12,
-.color-13,
-.color-14,
-.color-15,
-.color-16,
-.color-17,
-.color-18,
-.color-19,
-.color-20,
-.color-21,
-.color-22,
-.color-23,
-.color-24,
-.color-25,
-.color-26 {
+.color-10 {
 	border: 1px solid #000;
 	float: left;
 	margin: 10px;
@@ -79,12 +68,19 @@ section {
 .pattern-5,
 .pattern-6,
 .pattern-7,
-.pattern-8 {
+.pattern-8,
+.pattern-9,
+.pattern-10,
+.pattern-11,
+.pattern-12,
+.pattern-13,
+.pattern-14
+{
 	border: 1px solid #000;
 	float: left;
 	margin: 10px;
-	height: 100px;
-	width: 100px;
+	height: 110px;
+	width: 110px;
 }
 
 
@@ -93,32 +89,14 @@ section {
 	background: url("../img/grid-bg.png") repeat-y;
 }
 
-.color-1{background: #000000;}
-.color-2{background: #015E6F;}
+.color-1{background: #015E6F;}
+.color-2{background: #459F8F;}
 .color-3{background: #0F9E92;}
-.color-4{background: #24696B;}
-.color-5{background: #512D8A;}
-.color-6{background: #530B66;}
-.color-7{background: #56B8B7;}
-.color-8{background: #601147;}
-.color-9{background: #65326D;}
-.color-10{background: #69C5BA;}
-.color-11{background: #6D536C;}
-.color-12{background: #8D6798;}
-.color-13{background: #982D79;}
-.color-14{background: #A0648F;}
-.color-15{background: #A659BE;}
-.color-16{background: #A6D8CF;}
-.color-17{background: #a70574;}
-.color-18{background: #B05984;}
-.color-19{background: #C23C73;}
-.color-20{background: #C982A2;}
-.color-21{background: #D8DCDB;}
-.color-22{background: #D9C7DD;}
-.color-23{background: #DBDFEB;}
-.color-24{background: #EBDFEB;}
-.color-25{background: #f0ecf5;}
-.color-26{background: #F5DEE6;}
+.color-4{background: #530B66;}
+.color-5{background: #65326D;}
+.color-6{background: #8D6798;}
+.color-7{background: #601147;}
+.color-8{background: #AB0375;}
 
 .pattern-1 {
 	background: url("../img/dark-wood.png");
@@ -153,6 +131,38 @@ section {
 	background-size: 100%
 	
 }
+
+.pattern-9 {
+	background: url("../img/diagmonds.png");
+	background-size: 100%
+	
+}
+.pattern-10 {
+	background: url("../img/mirrored-squares.png");
+	background-size: 100%
+	
+}
+.pattern-11 {
+	background: url("../img/mooning.png");
+	background-size: 100%
+	
+}
+.pattern-12 {
+	background: url("../img/shattered-dark.png");
+	background-size: 100%
+	
+}
+.pattern-13 {
+	background: url("../img/shley-tree-2.png");
+	background-size: 100%
+	
+}
+.pattern-14 {
+	background: url("../img/soft-kill.png");
+	background-size: 100%
+	
+}
+
 
 
 
