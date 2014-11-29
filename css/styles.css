@@ -64,50 +64,6 @@ section {
 .color-24,
 .color-25,
 .color-26,
-.color-27,
-.color-28,
-.color-29,
-.color-30,
-.color-31,
-.color-32,
-.color-33,
-.color-34,
-.color-35,
-.color-36,
-.color-37,
-.color-38,
-.color-39,
-.color-40,
-.color-41,
-.color-42,
-.color-43,
-.color-44,
-.color-45,
-.color-46,
-.color-47,
-.color-48,
-.color-49,
-.color-50,
-.color-51,
-.color-52,
-.color-53,
-.color-54,
-.color-55,
-.color-56,
-.color-57,
-.color-58,
-.color-59,
-.color-60,
-.color-61,
-.color-62,
-.color-63,
-.color-64,
-.color-65,
-.color-66,
-.color-67,
-.color-68,
-.color-69,
-.color-70,
 .pattern-1,
 .pattern-2,
 .pattern-3 {
@@ -124,245 +80,32 @@ section {
 	background: url("../img/grid-bg.png") repeat-y;
 }
 
-.color-1{
-	background: #A0648F;
-}
-.color-2{
-	background: #EAE3CF;
-}
-.color-3{
-	background: #D9C7DD;
-}
-.color-4{
-	background: #C2C4C3;
-}
-.color-5{
-	background: #75BAC9;
-}
-.color-6{
-	background: #6A506B;
-}
-.color-7{
-	background: #5D3D52;
-}
-.color-8{
-	background: #015E6F;
-}
-.color-9{
-	background: #353945;
-}
-.color-10{
-	background: #EADBC8;
-}
-.color-11{
-	background: #DFEBD3;
-}
-.color-12{
-	background: #A6D8CF;
-}
-.color-13{
-	background: #0F9E92;
-}
-.color-14{
-	background: #6D536C;
-}
-.color-15{
-	background: #F5DEE6;
-}
-.color-16{
-	background: #512D8A;
-}
-.color-17{
-	background: #193BC9;
-}
-.color-18{
-	background: #B05984;
-}
-.color-19{
-	background: #B397BD;
-}
-.color-20{
-	background: #DBDFEB;
-}
-.color-21{
-	background: #DDEEF5;
-}
-.color-22{
-	background: #69C5BA;
-}
-.color-23{
-	background: #1A4D7C;
-}
-.color-24{
-	background: #8D6798;
-}
-.color-25{
-	background: #C982A2;
-}
-.color-26{
-	background: #EBDFEB;
-}
-.color-27{
-	background: #180620;
-}
-.color-28{
-	background: #280F36;
-}
-.color-29{
-	background: #65326D;
-}
-.color-30{
-	background: #B9EFEF;
-}
-.color-31{
-	background: #1D9089;
-}
-.color-32{
-	background: #182F3F;
-}
-.color-33{
-	background: #D6CFC5;
-}
-.color-34{
-	background: #A092A1;
-}
-.color-35{
-	background: #AAC3C0;
-}
-.color-36{
-	background: #D8DCDB;
-}
-.color-37{
-	background: #A5A6A2;
-}
-.color-38{
-	background: #562E49;
-}
-.color-39{
-	background: #56B8B7;
-}
-.color-40{
-	background: #A659BE;
-}
-.color-41{
-	background: #A01A47;
-}
-.color-42{
-	background: #C23C73;
-}
-.color-43{
-	background: #530B66;
-}
-.color-44{
-	background: #982D79;
-}
-.color-45{
-	background: #175E63;
-}
-.color-46{
-	background: #165F58;
-}
-.color-47{
-	background: #104042;
-}
-.color-48{
-	background: #104643;
-}
-.color-49{
-	background: #90FEE6;
-}
-.color-50{
-	background: #24696B;
-}
-.color-51{
-	background: #000000;
-}
-.color-52{
-	background: #ffffff;
-}
-.color-53{
-	background: #180620;
-}
-.color-54{
-	background: #280F36;
-}
-.color-55{
-	background: #65326D;
-}
-.color-56{
-	background: #1D9089;
-}
-.color-57{
-	background: #182F3F;
-}
-.color-58{
-	background: #2b1d32;
-}
-.color-59{
-	background: #2e3a53;
-}
-.color-60{
-	background: #1f1225;
-}
-.color-61{
-	background: #2f6056;
-}
-.color-62{
-	background: #47254c;
-}
-.color-63{
-	background: #204449;
-}
-.color-64{
-	background: #f0ecf5;
-}
-.color-65{
-	background: #ab0375;
-}
-.color-66{
-	background: #a70574;
-}
-.color-67{
-	background: #601147;
-}
-.color-68{
-	background: #600c45;
-}
-.color-69{
-	background: #1c3338;
-}
-.color-70{
-	background: #1a5159;
-}
-
-/*black-i:  180620
-Dark purp:  280F36
-	 Plum:  65326D
-	vTeal:  1D9089
-Dark blue:  182F3F  
-			2b1d32
-			2e3a53
-			1f1225
-			2f6056
-			47254c
-			204449
-			f0ecf5
-
-			ab0375
-			a70574
-			601147
-			600c45
-			1c3338
-			1a5159
-
-
-*/
-
-
-
-
-
-
+.color-1{background: #000000;}
+.color-2{background: #015E6F;}
+.color-3{background: #0F9E92;}
+.color-4{background: #24696B;}
+.color-5{background: #512D8A;}
+.color-6{background: #530B66;}
+.color-7{background: #56B8B7;}
+.color-8{background: #601147;}
+.color-9{background: #65326D;}
+.color-10{background: #69C5BA;}
+.color-11{background: #6D536C;}
+.color-12{background: #8D6798;}
+.color-13{background: #982D79;}
+.color-14{background: #A0648F;}
+.color-15{background: #A659BE;}
+.color-16{background: #A6D8CF;}
+.color-17{background: #a70574;}
+.color-18{background: #B05984;}
+.color-19{background: #C23C73;}
+.color-20{background: #C982A2;}
+.color-21{background: #D8DCDB;}
+.color-22{background: #D9C7DD;}
+.color-23{background: #DBDFEB;}
+.color-24{background: #EBDFEB;}
+.color-25{background: #f0ecf5;}
+.color-26{background: #F5DEE6;}
 
 .pattern-1 {
 	background: url("../img/arabesque.png");
