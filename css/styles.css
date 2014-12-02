@@ -31,7 +31,6 @@ h3 {
 /*Body copy*/
 p {
 	font-family: 'Quattrocento Sans', sans-serif;
-	color: #000000;
 	font-size: 1.25em;
 	margin: 10px;
 }
@@ -80,10 +79,37 @@ ul li {
 }*/
 
 .logo img {
-	max-height: 330px;
-	margin: 0;
+	max-width: 400px;
+	margin: 10px;
 	float: left;
 }
+
+section {
+
+	margin: 20px 0 20px 0;
+}
+
+section > p {
+	color: #000000;
+}
+
+section > p + p {
+	color: #601147;
+}
+
+section > p + p + p {
+	color: #8D6798;
+}
+
+section > p + p + p + p {
+	color: #0F9E92;
+}
+
+
+
+
+
+
 
 .color-1,
 .color-2,
@@ -111,7 +137,10 @@ ul li {
 .pattern-6,
 .pattern-7,
 .pattern-8,
-.pattern-9
+.pattern-9,
+.pattern-10,
+.pattern-11,
+.pattern-12
 {
 	border: 1px solid #000;
 	float: left;
@@ -170,7 +199,18 @@ ul li {
 .pattern-9 {
 	background: url("../img/diagmonds.png");
 	background-size: 100%
-	
+}
+.pattern-10 {
+	background: url("../img/dripping-paint-24.png") no-repeat;
+	background-size: 100%
+}
+.pattern-11 {
+	background: url("../img/dripping-paint-BLUEE.png") no-repeat;
+	background-size: 100%
+}
+.pattern-12 {
+	background: url("../img/dripping-paint-FINAL.png") no-repeat;
+	background-size: 100%
 }
 
 
